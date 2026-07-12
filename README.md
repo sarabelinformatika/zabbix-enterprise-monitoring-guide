@@ -17,6 +17,13 @@ Enterprise Zabbix monitoring guide covering architecture, templates, SNMP, agent
 
 </p>
 
+<p align="center">
+
+🌐 <strong><a href="https://sarabelinformatika.hu">Official Website</a></strong> •
+📝 <strong><a href="https://sarabelinformatika.hu/blog">Technical Blog</a></strong>
+
+</p>
+
 ---
 
 # Overview
@@ -209,6 +216,40 @@ Please review [CONTRIBUTING.md](CONTRIBUTING.md) before opening a Pull Request.
 
 ---
 
+# Related Resources
+
+## Company
+
+- 🌐 **Official Website**  
+  https://sarabelinformatika.hu
+
+- 📝 **Technical Blog**  
+  https://sarabelinformatika.hu/blog
+
+## Featured Articles
+
+- **Why Continuous Server and Network Monitoring Matters**  
+  https://sarabelinformatika.hu/blog/miert-fontos-a-folyamatos-szerver-es-halozati-monitoring-igy-elozhetok-meg-a-varatlan-rendszerleallasok
+
+- **Why Server Failures Often Go Undetected – Lessons from a Monitoring Project**  
+  https://sarabelinformatika.hu/blog/miert-nem-vettek-eszre-idoben-a-szerverhibakat-egy-monitoring-projekt-tanulsagai
+
+## Enterprise Infrastructure Series
+
+- MikroTik Security Hardening Guide  
+  https://github.com/sarabelinformatika/mikrotik-security-hardening
+
+- MikroTik VPN Guide  
+  https://github.com/sarabelinformatika/mikrotik-vpn-guide
+
+- PrivacyIDEA + FreeRADIUS + MikroTik OpenVPN  
+  https://github.com/sarabelinformatika/privacyidea-freeradius-mikrotik-openvpn
+
+- Proxmox VE Enterprise Guide  
+  https://github.com/sarabelinformatika/proxmox-ve-enterprise-guide
+
+---
+
 # Security
 
 Potentially unsafe or inaccurate security recommendations should be reported according to the process described in [SECURITY.md](SECURITY.md).
@@ -233,10 +274,12 @@ This project is released under the [MIT License](LICENSE).
 
 <p align="center">
 
-**SARABEL Informatika Kft.**
+## SARABEL Informatika Kft.
 
 Enterprise Infrastructure • Monitoring • Open Source • Documentation
 
-https://sarabelinformatika.hu
+🌐 <a href="https://sarabelinformatika.hu">sarabelinformatika.hu</a>
+
+📝 <a href="https://sarabelinformatika.hu/blog">Technical Blog</a>
 
 </p>
