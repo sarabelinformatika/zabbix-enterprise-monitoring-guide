@@ -1,2 +1,6 @@
-# zabbix-enterprise-monitoring-guide
-Enterprise Zabbix monitoring guide covering monitoring architecture, templates, SNMP, alerting, dashboards, automation and operational best practices.
+<p align="center">
+  <img src="./images/zabbix-enterprise-monitoring-guide.png" alt="SARABEL Informatika Banner" width="100%">
+</p>
+
+<br>
+
