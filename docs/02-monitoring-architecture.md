@@ -2074,6 +2074,4 @@ The next chapter covers the installation and initial deployment of the Zabbix pl
 
 Continue with:
 
-```text
-03-installation.md
-```
+[Next: Installation →](03-installation.md)
